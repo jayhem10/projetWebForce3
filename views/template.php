@@ -8,11 +8,12 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <link href="https://fonts.googleapis.com/css?family=Mansalva&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Heebo:700&display=swap" rel="stylesheet">
-
-    <link rel="stylesheet" type="text/css" href="styles/main.css">
     <script src="https://kit.fontawesome.com/bda8027245.js" crossorigin="anonymous"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Heebo|Mansalva|Questrial&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    
 
 
 <header>
@@ -79,12 +80,12 @@
         <ul class="list-unstyled">
           <li>
             <p>
-              <a href="#!">Réalisations</a>
+              <a href="#!">Nos sponsors</a>
             </p>
           </li>
           <li>
             <p>
-              <a href="#!">Qui sommes-nous?</a>
+              <a href="#!">About Us</a>
             </p>
           </li>
           <li>
@@ -103,7 +104,7 @@
       <div class="col-md-4 col-lg-3 mx-auto my-md-4 my-0 mt-4 mb-1">
 
         <!-- Contact details -->
-        <h5 class="font-weight-bold text-uppercase mb-4">Addresse</h5>
+        <h5 class="font-weight-bold text-uppercase mb-4">Adresse</h5>
 
         <ul class="list-unstyled">
           <li>
@@ -116,7 +117,7 @@
           </li>
           <li>
             <p>
-              <i class="fas fa-envelope mr-3"></i> techinfo@gmail.com</p>
+              <i class="fas fa-envelope mr-3"></i> etg@gmail.com</p>
           </li>
           <li>
             <p>

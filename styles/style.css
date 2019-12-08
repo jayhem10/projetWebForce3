@@ -41,13 +41,12 @@ h1{
 	font-size: 4em;
 }
 
-.titre2 h2{
-	font-family: 'Mansalva', cursive;
-	font-size: 4em;
+h2{
+	font-family: 'Questrial', cursive;
+	font-size: 2em;
 }
 
-
-/*INDEX IMAGE */
+INDEX IMAGE 
 .hover{
 	position: relative;
 	width: 100%;
@@ -70,12 +69,10 @@ h1{
 .hover img {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
 }
 
 
-/*image lebron effet*/
+/*image lebron effet
 .hover1{
 	position: relative;
 	width: 100%;
@@ -152,3 +149,4 @@ h1{
 	opacity: .8;
 }
 
+*/
