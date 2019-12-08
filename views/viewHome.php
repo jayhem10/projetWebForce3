@@ -6,7 +6,7 @@
     <img src="../img/index2.jpg" style="height:100vh width:100%" class="img-fluid" alt="Responsive image"><h2 class="titreindex">ENTER THE GAME</h2>
 </div>
 
-<div class="text-center"> ENTREZ DANS LE GAME ET SUIVEZ LES PLUS GRANDS SPORTIFS DU MOMENT </div>
+<h2 class="text-center"> ENTREZ DANS LE GAME ET SUIVEZ LES PLUS GRANDS SPORTIFS DU MOMENT</h2>
 
 <div class="container">
 
@@ -21,21 +21,21 @@
     <div class="carousel-item active">
       <img src="../img/LBJ_1.jpg" class="d-block w-100" alt="First Slide">
       <div class="carousel-caption">
-        <h5>LEBRON JAMES</h5>
+        <h5 class="text-warning">LEBRON JAMES</h5>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../img/CR7_1.jpg" class="d-block w-100" alt="Second Slide">
+      <img src="../img/CR7_0.jpg" class="d-block w-100" alt="Second Slide">
       <div class="carousel-caption">
-        <h5>CHRISTIANO RONALDO</h5>
+        <h5 class="text-warning">CHRISTIANO RONALDO</h5>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="../img/SRW_1.jpg" class="d-block w-100" alt="Third Slide">
       <div class="carousel-caption">
-        <h5>SERENA WILLIAMS</h5>
+        <h5 class="text-warning">SERENA WILLIAMS</h5>
         <p></p>
       </div>
     </div>

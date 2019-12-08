@@ -41,6 +41,11 @@ h1{
 	font-size: 4em;
 }
 
+h2{
+	font-family: 'Mansalva', cursive;
+	font-size: 3em;
+}
+
 /*INDEX IMAGE */
 .hover{
 	position: relative;
