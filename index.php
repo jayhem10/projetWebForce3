@@ -15,7 +15,7 @@ try {
     else {
         switch($_GET['action']) {
             // accueil
-            case '':
+            case 'accueilAction':
                 accueilAction();
             break;
 
