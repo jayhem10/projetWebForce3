@@ -7,11 +7,12 @@
 </div>
 
 
-<div class="text-center titre2 bg-light h-25 my-5">
-<h2 class="py-5"> ENTRE DANS LE GAME POUR SUIVRE LES PLUS GRANDS SPORTIFS DE TON EPOQUE</h2>
+<div class="text-center titre2 ">
+<h2 class="py-5 text-light"> ENTRE DANS LE GAME POUR SUIVRE LES PLUS GRANDS SPORTIFS DE TON EPOQUE</h2>
 </div>
 
 <!-- LE CAROUSEL -->
+<div class="container-fluid bg-light">
 <div class="container">
 
   <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
@@ -31,7 +32,7 @@
         <div class="carousel-item">
           <img src="img/CR7_0.jpg" class="d-block w-100" alt="Second Slide">
           <div class="carousel-caption">
-            <h5 class="text-dark">CHRISTIANO RONALDO</h5>
+            <h5 class="text-primary">CRISTIANO RONALDO</h5>
             <p></p>
           </div>
         </div>
@@ -53,8 +54,9 @@
       </a>
   </div>
 </div>
+</div>
 
-<div class="text-center titre2 bg-dark my-5">
+<div class="text-center titre2 bg-dark my-2">
 <h2 class="text-light py-5"> INCRIS-TOI ET SUIS TES JOUEURS FAVORIS</h2>
 <a class="btn btn-warning btn-lg my-5" href="#" role="button">M'inscrire</a>
 </div>

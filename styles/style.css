@@ -44,6 +44,11 @@ h1{
 h2{
 	font-family: 'Questrial', cursive;
 	font-size: 2em;
+	font-weight: bold;
+}
+
+.titre2 h2{
+	background-color: black;
 }
 
 INDEX IMAGE 
