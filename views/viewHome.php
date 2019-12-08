@@ -6,36 +6,48 @@
     <img src="../img/index2.jpg" style="height:100vh width:100%" class="img-fluid" alt="Responsive image"><h2 class="titreindex">ENTER THE GAME</h2>
 </div>
 
-<div class="mx-10"> </div>
+<div class="text-center"> ENTREZ DANS LE GAME ET SUIVEZ LES PLUS GRANDS SPORTIFS DU MOMENT </div>
 
 <div class="container">
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner">
+  <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img src="../img/lebron1.jpg" class="d-block w-100" alt="...">
+      <img src="../img/lebron1.jpg" class="d-block w-100" alt="First Slide">
+      <div class="carousel-caption">
+        <h5>LEBRON JAMES</h5>
+        <p></p>
+      </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="../img/CR7_1.jpg" class="d-block w-100" alt="Second Slide">
+      <div class="carousel-caption">
+        <h5>CHRISTIANO RONALDO</h5>
+        <p></p>
+      </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="../img/SRW_1.jpg" class="d-block w-100" alt="Third Slide">
+      <div class="carousel-caption">
+        <h5>SERENA WILLIAMS</h5>
+        <p></p>
+      </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
 </div>
 
 
