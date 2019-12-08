@@ -19,14 +19,14 @@
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img src="../img/lebron1.jpg" class="d-block w-100" alt="First Slide">
+      <img src="../img/LBJ_1.jpg" class="d-block w-100" alt="First Slide">
       <div class="carousel-caption">
         <h5>LEBRON JAMES</h5>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../img/CR7_1.jpg" class="d-block w-100" alt="Second Slide">
+      <img src="../img/CR7.jpg" class="d-block w-100" alt="Second Slide">
       <div class="carousel-caption">
         <h5>CHRISTIANO RONALDO</h5>
         <p></p>
