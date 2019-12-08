@@ -1,64 +1,43 @@
-<?php $titre = 'Mon Blog'; ?>
+<?php $titre = 'BeTheNext'; ?>
 
 <?php ob_start(); ?>
 
-        <h2><?= $info; ?>,  Bienvenue sur mon Blog</h2>
-        <br>
-        <div class="row">
+<div class="hover">
+    <img src="../img/index2.jpg" style="height:100vh width:100%" class="img-fluid" alt="Responsive image"><h2 class="titreindex">ENTER THE GAME</h2>
+</div>
 
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <a href="index.php?action=article&id=3">
-                                <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="public/img/5.jpg">
-                            </a>
-                            <div class="card-body">
-                                <p class="card-text">Adipisci beatae distinctio aut. Et quod architecto voluptate laudantium aut eum cumque. Qui quae ut ...</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                    <a href="index.php?action=article&id=3" class="btn btn-sm btn-outline-secondary">Lire plus </a>
-                                    </div>
-                                    <small class="text-muted">20-11-2019 à 11:25</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-            
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <a href="index.php?action=article&id=3">
-                                <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="public/img/2.jpg">
-                            </a>
-                            <div class="card-body">
-                                <p class="card-text">Ex molestias dolorum alias at corporis. Consequatur sit voluptatibus fuga inventore minus. At vitae ...</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                    <a href="index.php?action=article&id=3" class="btn btn-sm btn-outline-secondary">Lire plus </a>
-                                    </div>
-                                    <small class="text-muted">18-11-2019 à 17:09</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-            
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <a href="index.php?action=article&id=3">
-                                <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="public/img/1.jpg">
-                            </a>
-                            <div class="card-body">
-                                <p class="card-text">Nisi aspernatur nesciunt ut in sed. Laborum doloremque et numquam sit dolore tempore nam. Pariatur i...</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                    <a href="index.php?action=article&id=3" class="btn btn-sm btn-outline-secondary">Lire plus </a>
-                                    </div>
-                                    <small class="text-muted">18-11-2019 à 12:28</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-        </div>
+<div class="mx-10"> </div>
+
+<div class="container">
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../img/lebron1.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
 
 <?php $contenu = ob_get_clean(); ?>
 

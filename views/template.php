@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Mansalva&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Heebo:700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="stylesheet" type="text/css" href="../styles/main.css">
 
 <header>
   <body>
@@ -40,41 +40,10 @@
   </header>
 
 
-
-
-
-
-
-
-
-
-<main role="main">
-  <div class="album py-5 bg-light">
-      <div class="container">
         <?php
             // contenu de la page
             echo $contenu; 
         ?>
-      </div>
-  </div>
-</main>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
       <footer>
