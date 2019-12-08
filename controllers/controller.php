@@ -10,7 +10,9 @@
 
 // /////////////////////////////////////////////////////////////
 
+// require 'models/model.php';
 require 'models/model.php';
+
 
 // Affiche la page d'acceuil
 function accueilAction() {

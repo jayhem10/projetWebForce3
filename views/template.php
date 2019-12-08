@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Mansalva&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Heebo:700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="../styles/main.css">
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
     <script src="https://kit.fontawesome.com/bda8027245.js" crossorigin="anonymous"></script>
 
 <header>

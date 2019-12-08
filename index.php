@@ -25,20 +25,20 @@ try {
                 aboutUs();
                 break;
 
-            // case 'contact':
-            //     contactAction();
-            // break;
+            case 'EnterTheGame':
+                mypageAction();
+            break;
 
+            case 'Eshop' : 
+                marketAction();
+            break;
             // page affichant les infos de l'article par son ID  
             // case 'article' : 
                 
             //     articleInfoAction($_GET['id']);
             //     break;
 
-            // page affichant la liste de tous les auteurs 
-            // case 'login' : 
-            //     loginAction();
-            //     break;
+
 
             // case 'logout' : 
             //     logoutAction();
@@ -56,9 +56,7 @@ try {
             
 
             /// Si une erreur est renvoyée, l'utilisateur est redirigé vers une page 404
-            default : 
-                throw new Exception("Action non valide");
-                break;
+
         }
     }
     
